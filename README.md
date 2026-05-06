@@ -185,9 +185,9 @@ For presentation, use **Explore Results** as the default because it does not dep
 
 ## Team
 
-- Qianyu Zhang
-- Guangyuan Zhao
-- Elsie Li
+- Qianyu Zhang (qz2576)
+- Guangyuan Zhao (gz2407)
+- Elsie Li (yl5903)
 
 ## Course
 
