@@ -1,0 +1,21 @@
+metric,comparison,n_pairs,mean_score_a,mean_score_b,mean_difference_b_minus_a,wilcoxon_statistic,p_value,effect_size_rank_biserial,adjusted_p_value_fdr_bh
+guideline_alignment,baseline vs rag_only,50,3.06,4.72,1.66,0.0,1.7769853124621114e-10,1.0,1.066191187477267e-09
+guideline_alignment,baseline vs multistep_only,50,3.06,3.06,0.0,10.5,1.0,0.0,1.0
+guideline_alignment,baseline vs full_pipeline,50,3.06,4.84,1.78,0.0,5.964329024089067e-11,1.0,5.367896121680161e-10
+guideline_alignment,rag_only vs full_pipeline,50,4.72,4.84,0.12,11.0,0.0577795711235972,0.6,0.09454838911134086
+guideline_alignment,multistep_only vs full_pipeline,50,3.06,4.84,1.78,0.0,5.7001605516409954e-11,1.0,5.367896121680161e-10
+personalization,baseline vs rag_only,50,4.08,4.0,-0.08,0.0,0.0455002638963584,-1.0,0.08190047501344512
+personalization,baseline vs multistep_only,50,4.08,4.08,0.0,5.0,1.0,0.0,1.0
+personalization,baseline vs full_pipeline,50,4.08,4.12,0.04,7.0,0.4142161782425253,0.3333333333333333,0.5325636577403897
+personalization,rag_only vs full_pipeline,50,4.0,4.12,0.12,0.0,0.0143058784354296,1.0,0.0429176353062888
+personalization,multistep_only vs full_pipeline,50,4.08,4.12,0.04,13.5,0.4795001221869533,0.25,0.5754001466243439
+relevance,baseline vs rag_only,50,4.0,4.0,0.0,0.0,,0.0,
+relevance,baseline vs multistep_only,50,4.0,4.0,0.0,0.0,,0.0,
+relevance,baseline vs full_pipeline,50,4.0,4.1,0.1,0.0,0.0253473186774682,1.0,0.0506946373549364
+relevance,rag_only vs full_pipeline,50,4.0,4.1,0.1,0.0,0.0253473186774682,1.0,0.0506946373549364
+relevance,multistep_only vs full_pipeline,50,4.0,4.1,0.1,0.0,0.0253473186774682,1.0,0.0506946373549364
+safety,baseline vs rag_only,50,4.28,4.18,-0.1,40.0,0.1967056024589468,-0.3333333333333333,0.27236160340469556
+safety,baseline vs multistep_only,50,4.28,4.48,0.2,6.5,0.0038924171227786,0.8333333333333334,0.0175158770525037
+safety,baseline vs full_pipeline,50,4.28,4.28,0.0,68.0,1.0,0.0,1.0
+safety,rag_only vs full_pipeline,50,4.18,4.28,0.1,10.0,0.0955807045456294,0.5555555555555556,0.14337105681844411
+safety,multistep_only vs full_pipeline,50,4.48,4.28,-0.2,15.0,0.0075263151664578,-0.7142857142857143,0.02709473459924808

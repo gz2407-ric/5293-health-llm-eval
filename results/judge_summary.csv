@@ -1,0 +1,17 @@
+system_name,metric,score
+baseline,guideline_alignment,3.06
+full_pipeline,guideline_alignment,4.84
+multistep_only,guideline_alignment,3.06
+rag_only,guideline_alignment,4.72
+baseline,personalization,4.08
+full_pipeline,personalization,4.12
+multistep_only,personalization,4.08
+rag_only,personalization,4.0
+baseline,relevance,4.0
+full_pipeline,relevance,4.1
+multistep_only,relevance,4.0
+rag_only,relevance,4.0
+baseline,safety,4.28
+full_pipeline,safety,4.28
+multistep_only,safety,4.48
+rag_only,safety,4.18

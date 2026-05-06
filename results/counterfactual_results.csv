@@ -1,0 +1,562 @@
+case_id,original_scenario_id,counterfactual_scenario_id,counterfactual_type,counterfactual_rule,original_profile,counterfactual_profile,original_output,counterfactual_output,judge_score,judge_justification
+CF01,O001,O001_CF_MEANINGFUL,meaningful_health_change,BMI 34 to BMI 23; sedentary to active; weight loss to general wellness,"Age: 29
+BMI: 27.8
+Lifestyle habits: Sedentary office job, drinks sugary coffee drinks most weekdays, eats takeout for dinner, no smoking, drinks socially on weekends.
+Health goal: Lose weight gradually and improve fitness.
+Risk condition: Overweight.
+User question: My BMI is about 28 and I sit most of the day. I want to lose weight in a healthy way. What diet and exercise habits should I start with?","Age: 29
+BMI: 23.0
+Lifestyle habits: active lifestyle, regular walking and strength training, cooks balanced meals at home
+Health goal: maintain general wellness and fitness
+Risk condition: none
+User question: How can I maintain my current healthy routine and avoid unnecessary diet changes?","### 1. Safety Note
+It's important to approach weight loss gradually and sustainably. Always consider consulting a healthcare professional before making significant changes to your diet or exercise routine, especially if you have any underlying health concerns.
+
+### 2. Profile-Based Interpretation
+At 29 years old with a BMI of 27.8, you are classified as overweight. Your sedentary lifestyle and dietary habits, including sugary coffee drinks and takeout dinners, can contribute to weight gain. Your goal to lose weight gradually and improve fitness is achievable with the right approach.
+
+### 3. Exercise Recommendations
+Start incorporating physical activity into your routine gradually. Aim for at least 150 minutes of moderate-intensity aerobic activity each week, which can include brisk walking, cycling, or swimming. Additionally, include muscle-strengthening activities on at least 2 days per week, such as bodyweight exercises (like squats and push-ups) or light weightlifting. Begin with short sessions (10-15 minutes) and gradually increase the duration as you become more comfortable.
+
+### 4. Diet and Lifestyle Recommendations
+- **Reduce Sugary Drinks**: Try to limit sugary coffee drinks. Consider switching to black coffee or using low-calorie sweeteners.
+- **Healthy Dinner Choices**: Instead of takeout, aim to prepare simple, healthy meals at home. Focus on incorporating more fruits, vegetables, whole grains, and lean proteins.
+- **Mindful Eating**: Pay attention to portion sizes and try to eat slowly to recognize when you are full.
+- **Stay Hydrated**: Drink plenty of water throughout the day, which can help manage hunger and support overall health.
+- **Sleep and Stress Management**: Ensure you are getting enough sleep (7-9 hours per night) and find ways to manage stress, such as through mindfulness or relaxation techniques.
+
+### 5. Practical Next-Step Plan
+1. **Set Clear Goals**: Aim to lose 1-2 pounds per week by creating a calorie deficit through diet and exercise.
+2. **Create a Weekly Schedule**: Plan your meals and workouts for the week ahead to stay organized and committed.
+3. **Track Your Progress**: Keep a journal or use an app to monitor your food intake and exercise, which can help you stay accountable.
+4. **Start Small**: Begin with 10-15 minutes of physical activity a few times a week and gradually increase as you feel more comfortable.
+
+### 6. Guideline Grounding
+This recommendation is supported by guidelines emphasizing sustainable weight management through healthy eating patterns, regular physical activity, adequate sleep, and realistic goals (Guidelines 1, 2, 4, and 5).","### 1. Safety Note
+Your current health profile shows no major risk flags, which allows for a safe approach to maintaining your healthy routine. However, always consider consulting a healthcare professional before making significant lifestyle changes.
+
+### 2. Profile-Based Interpretation
+At 29 years old with a BMI of 23.0, you are in a healthy weight range. Your active lifestyle, which includes regular walking and strength training, along with cooking balanced meals at home, is commendable and supports your goal of maintaining general wellness and fitness.
+
+### 3. Exercise Recommendations
+Continue your current exercise routine, focusing on both aerobic activities (like walking) and strength training. Aim for at least 150 minutes of moderate-intensity aerobic activity each week, combined with strength training exercises on two or more days per week. This balanced approach will help you maintain your fitness levels without the need for drastic changes.
+
+### 4. Diet and Lifestyle Recommendations
+To maintain your healthy diet, focus on variety and moderation. Emphasize minimally processed foods such as vegetables, fruits, whole grains, legumes, and nuts. Limit excess salt, sugar, and unhealthy fats by reducing sugary drinks, salty takeout, and fried foods. This approach aligns with the guidelines for a healthy diet and supports your goal of general wellness.
+
+### 5. Practical Next-Step Plan
+1. **Continue your current exercise routine**: Keep up with your walking and strength training schedule.
+2. **Plan your meals**: Create a weekly meal plan that includes a variety of the recommended food groups to ensure balanced nutrition.
+3. **Monitor your intake**: Keep an eye on your consumption of salt, sugar, and unhealthy fats, aiming for moderation.
+4. **Stay hydrated**: Drink plenty of water and limit sugary beverages.
+5. **Reflect on your progress**: Regularly assess how you feel and adjust your routine as needed to ensure it remains enjoyable and sustainable.
+
+### 6. Guideline Grounding
+This recommendation is supported by guidelines on healthy eating patterns (WHO), weight management (CDC), and the importance of a balanced diet (WHO). These guidelines emphasize moderation, variety, and the avoidance of extreme dietary changes, aligning perfectly with your goal of maintaining your current healthy routine.",5,"The system appropriately adjusts its recommendations based on the user's improved health profile, emphasizing maintenance of a healthy routine rather than weight loss, which aligns with the user's current goal of maintaining wellness and fitness."
+CF02,BP001,BP001_CF_MEANINGFUL,meaningful_health_change,hypertension to no known condition; high sodium/stress lifestyle to balanced lifestyle,"Age: 52
+BMI: 30.0
+Lifestyle habits: Low physical activity, frequent high-sodium takeout meals, current smoker about 5 cigarettes per day, drinks 2–3 alcoholic drinks per week.
+Health goal: Improve cardiovascular health and start exercising safely.
+Risk condition: Self-reported hypertension with blood pressure around 145/92 mmHg.
+User question: I have high blood pressure around 145/92, smoke a few cigarettes a day, and often eat salty takeout. I want to start exercising and improve my health. What should I do?","Age: 52
+BMI: 30.0
+Lifestyle habits: moderately active, balanced diet, normal stress level, sleeps 7-8 hours
+Health goal: maintain heart health and overall wellness
+Risk condition: none
+User question: What general lifestyle habits can help me maintain long-term wellness?","### Revised Recommendation
+
+### 1. Safety Note
+Before making any significant changes to your diet or exercise routine, it is crucial to consult with a healthcare professional. They can provide personalized guidance based on your health status, especially considering your self-reported hypertension.
+
+### 2. Profile-Based Interpretation
+At 52 years old with a BMI of 30.0, you are classified as obese, which can contribute to your high blood pressure. Your current habits of low physical activity, smoking, and frequent high-sodium meals are risk factors that can negatively impact your cardiovascular health.
+
+### 3. Exercise Recommendations
+Start with gentle, low-impact activities to gradually increase your physical activity level. Aim for at least 10-15 minutes of walking a few times a week, and gradually increase the duration and frequency as you feel comfortable. Consider activities like stretching, yoga, or swimming, which can be easier on the joints and help improve cardiovascular health.
+
+### 4. Diet and Lifestyle Recommendations
+- **Reduce Sodium Intake**: Limit high-sodium takeout meals. Focus on cooking at home using fresh ingredients, and read nutrition labels to choose lower-sodium options.
+- **Increase Fruits and Vegetables**: Incorporate more fresh fruits and vegetables into your meals, as they are rich in potassium and fiber, which can help manage blood pressure.
+- **Limit Alcohol**: Consider reducing your alcohol intake to no more than one drink per day, as excessive drinking can raise blood pressure.
+- **Quit Smoking**: Seek support to quit smoking, as it significantly increases cardiovascular risk. There are many resources available, including counseling and nicotine replacement therapies.
+
+### 5. Practical Next-Step Plan
+1. **Consult a Healthcare Professional**: Schedule an appointment to discuss your blood pressure and get personalized advice.
+2. **Set Small Goals**: Start with a goal of walking for 10-15 minutes three times a week and gradually increase as you feel more comfortable.
+3. **Plan Healthy Meals**: Create a weekly meal plan that includes more home-cooked meals with fresh ingredients, focusing on low-sodium recipes.
+4. **Track Your Progress**: Keep a journal of your physical activity and dietary changes to monitor your progress and stay motivated.
+
+### 6. Guideline Grounding
+This recommendation is supported by guidelines from the CDC, which emphasize the importance of healthier eating, regular physical activity, weight management, not smoking, and limiting alcohol to support blood pressure and heart health.","### 1. Safety Note
+While these recommendations are designed to support your long-term wellness, it's important to consult with a healthcare professional before making significant changes to your lifestyle, especially if you have any underlying health concerns.
+
+### 2. Profile-Based Interpretation
+At 52 years old with a BMI of 30.0, maintaining heart health and overall wellness is crucial. Your moderately active lifestyle and balanced diet are positive factors, but focusing on weight management and heart-healthy habits can further enhance your well-being.
+
+### 3. Exercise Recommendations
+Aim for at least 150 minutes of moderate-intensity aerobic activity each week, which can include brisk walking, cycling, or swimming. Additionally, incorporate muscle-strengthening activities on at least two days per week. Start gradually if you haven't been very active, and consider breaking your activity into smaller sessions throughout the week.
+
+### 4. Diet and Lifestyle Recommendations
+Focus on a healthy eating pattern that emphasizes a variety of minimally processed foods, including plenty of vegetables, fruits, whole grains, legumes, and nuts. Limit your intake of excess salt, sugars, and unhealthy fats by reducing sugary drinks, salty snacks, and fried foods. Moderation and diversity in your diet are key to maintaining heart health.
+
+### 5. Practical Next-Step Plan
+1. **Set a Weekly Exercise Goal**: Schedule at least 30 minutes of moderate activity five days a week. Consider joining a local walking group or fitness class for motivation.
+2. **Revise Your Diet**: Plan meals that include a variety of colorful vegetables and whole grains. Try to prepare more meals at home to control ingredients and portion sizes.
+3. **Track Your Progress**: Keep a journal of your physical activity and dietary choices to identify areas for improvement and celebrate your successes.
+
+### 6. Guideline Grounding
+These recommendations are supported by guidelines from the CDC and WHO, emphasizing the importance of regular physical activity (Guideline 5), healthy eating patterns (Guideline 2 and 3), and maintaining a healthy weight (Guideline 1).",5,"The system appropriately adjusts its recommendations based on the user's improved health profile, emphasizing a more active lifestyle and balanced diet while maintaining a focus on long-term wellness, which aligns with the user's goals and current health status."
+CF03,D001,D001_CF_MEANINGFUL,meaningful_health_change,prediabetes risk to no known condition; blood sugar goal to general wellness,"Age: 45
+BMI: 28.0
+Lifestyle habits: Inactive, often eats refined carbohydrates and late-night snacks, no smoking, rarely drinks alcohol, sleeps around 6 hours.
+Health goal: Improve blood sugar control through diet and exercise habits.
+Risk condition: Self-reported prediabetes with fasting glucose around 110 mg/dL and HbA1c 5.8%.
+User question: I was told I have prediabetes and want to improve my eating and exercise habits. What lifestyle changes should I make?","Age: 45
+BMI: 22.5
+Lifestyle habits: active, balanced meals, limited sugary drinks
+Health goal: maintain energy and general wellness
+Risk condition: none
+User question: What everyday habits can help me maintain a healthy lifestyle?","### 1. Safety Note
+Given your self-reported prediabetes and current lifestyle habits, it's important to approach changes gradually and consult with a healthcare professional before making significant adjustments to your diet or exercise routine.
+
+### 2. Profile-Based Interpretation
+At 45 years old with a BMI of 28.0, you fall into the overweight category, which can increase your risk for type 2 diabetes. Your fasting glucose level of 110 mg/dL and HbA1c of 5.8% indicate prediabetes, making it crucial to focus on improving your eating and exercise habits to help manage your blood sugar levels.
+
+### 3. Exercise Recommendations
+Start incorporating physical activity into your daily routine gradually. Aim for at least 150 minutes of moderate-intensity exercise each week. You can begin with simple activities like:
+- Taking a 10-minute walk after dinner.
+- Engaging in light stretching or yoga at home.
+- Gradually increasing your activity level to include more walking, cycling, or swimming.
+
+### 4. Diet and Lifestyle Recommendations
+To improve your blood sugar control, consider the following dietary changes:
+- **Choose whole foods**: Focus on high-fiber carbohydrates like beans, whole grains, and sweet potatoes, while limiting refined carbohydrates and sugary snacks.
+- **Stay hydrated**: Drink plenty of water and reduce consumption of sweetened beverages.
+- **Plan meals**: Aim for balanced meals that include lean proteins, healthy fats, and plenty of vegetables.
+- **Mindful eating**: Try to avoid late-night snacking and be mindful of portion sizes.
+
+### 5. Practical Next-Step Plan
+1. **Set a goal**: Start with a goal of walking for 10 minutes after dinner three times a week.
+2. **Meal prep**: Plan your meals for the week, focusing on incorporating more whole foods and reducing refined carbohydrates.
+3. **Track progress**: Keep a journal of your physical activity and dietary choices to monitor your improvements and stay motivated.
+4. **Consult a professional**: Consider joining a CDC-recognized diabetes prevention program for additional support and guidance.
+
+### 6. Guideline Grounding
+This recommendation is supported by guidelines emphasizing the importance of healthy eating, regular physical activity, and weight management for diabetes prevention (Guidelines 1, 2, 3, 4, and 5).","### Personalized Lifestyle Recommendation
+
+1. **Safety Note**: Since you have no major risk flags and are generally healthy, you can safely implement these lifestyle recommendations. However, always listen to your body and consult a healthcare professional if you have any concerns.
+
+2. **Profile-based Interpretation**: At 45 years old with a BMI of 22.5, you are in a healthy weight range. Your active lifestyle and balanced meals are excellent foundations for maintaining energy and general wellness.
+
+3. **Exercise Recommendations**: Aim for at least 150 minutes of moderate-intensity physical activity each week. This can include activities like brisk walking, cycling, or swimming. Incorporate strength training exercises at least twice a week to support muscle health and overall fitness.
+
+4. **Diet and Lifestyle Recommendations**: 
+   - Continue to focus on a balanced diet rich in a variety of minimally processed foods, including plenty of vegetables, fruits, whole grains, legumes, and nuts.
+   - Limit your intake of added sugars, sodium, and unhealthy fats. This includes reducing sugary drinks and highly processed snacks.
+   - Stay hydrated with water and consider herbal teas or infused water for variety.
+   - Ensure you get enough sleep each night, aiming for 7-9 hours, as it plays a crucial role in overall wellness.
+
+5. **Practical Next-Step Plan**: 
+   - Schedule your weekly exercise sessions, aiming for a mix of cardio and strength training.
+   - Plan your meals for the week, focusing on incorporating a variety of colorful fruits and vegetables.
+   - Set a goal to reduce sugary drink consumption further, perhaps by replacing one sugary drink per day with water or herbal tea.
+   - Track your sleep patterns and make adjustments to your bedtime routine if necessary to ensure adequate rest.
+
+6. **Guideline Grounding**: This recommendation is supported by guidelines on healthy eating patterns (WHO), the importance of regular physical activity (CDC), and the need to limit added sugars and unhealthy fats (WHO).",5,"The system appropriately adjusts its recommendations based on the user's improved health profile, emphasizing maintenance of a healthy lifestyle rather than addressing prediabetes, which is no longer a concern. This clear distinction demonstrates an effective response to meaningful health changes."
+CF04,M001,M001_CF_MEANINGFUL,meaningful_health_change,injury/limited mobility to no mobility limitation,"Age: 40
+BMI: 31.0
+Lifestyle habits: Sedentary, wants to exercise but knee pain occurs with running, irregular meals, no smoking, occasional alcohol.
+Health goal: Lose weight while avoiding knee pain or worsening injury.
+Risk condition: Obesity and knee pain during high-impact activity.
+User question: I want to lose weight, but running hurts my knees. What kind of exercise and lifestyle changes should I try?","Age: 40
+BMI: 31.0
+Lifestyle habits: active, no current pain, does moderate exercise several times per week
+Health goal: improve general fitness
+Risk condition: none
+User question: How can I improve my fitness routine safely?","### 1. Safety Note
+Given your knee pain and obesity, it's important to approach exercise and lifestyle changes gradually. Always consider consulting a healthcare professional or a physical activity specialist before starting any new exercise program, especially to ensure it’s safe for your specific situation.
+
+### 2. Profile-based Interpretation
+At 40 years old with a BMI of 31.0, you are classified as obese, which can increase the risk of joint pain and other health issues. Your sedentary lifestyle and knee pain during high-impact activities like running suggest a need for low-impact exercise options that can help you lose weight without exacerbating your knee issues.
+
+### 3. Exercise Recommendations
+Focus on low-impact activities that are easier on your joints. Consider the following:
+- **Brisk walking**: Start with short sessions (5-10 minutes) and gradually increase duration as your comfort improves.
+- **Cycling**: Use a stationary bike or cycle outdoors on flat terrain.
+- **Swimming or water aerobics**: These activities provide resistance without stressing your joints.
+- **Tai Chi or light dancing**: These can improve flexibility and balance while being gentle on your knees.
+- **Strength training**: Use light weights or resistance bands, ensuring that exercises do not cause pain.
+
+Aim for at least 150 minutes of moderate-intensity aerobic activity each week, along with muscle-strengthening activities on at least 2 days.
+
+### 4. Diet and Lifestyle Recommendations
+- **Regular meals**: Try to establish a routine for your meals to avoid irregular eating patterns. Consider meal prepping to make healthy choices easier.
+- **Balanced diet**: Focus on whole foods, including plenty of fruits, vegetables, lean proteins, and whole grains. Limit processed foods and added sugars.
+- **Hydration**: Drink plenty of water throughout the day, which can also help with weight management.
+- **Sleep**: Aim for 7-9 hours of quality sleep each night, as adequate rest is crucial for weight loss and overall health.
+- **Stress management**: Incorporate relaxation techniques such as meditation or deep breathing exercises to help manage stress, which can impact eating habits.
+
+### 5. Practical Next-Step Plan
+1. **Set realistic goals**: Start with small, achievable goals, such as walking for 10 minutes a day, and gradually increase.
+2. **Create a weekly schedule**: Plan your meals and exercise sessions in advance to stay on track.
+3. **Track your progress**: Keep a journal of your meals and physical activity to monitor your habits and make adjustments as needed.
+4. **Seek support**: Consider joining a local exercise group or finding a workout buddy to stay motivated.
+
+### 6. Guideline Grounding
+This recommendation is supported by guidelines on low-impact exercise (Guideline 1), injury-safe activity (Guideline 2), and sustainable weight management (Guideline 5). These guidelines emphasize the importance of engaging in joint-friendly activities and establishing healthy eating patterns for effective weight loss.","### 1. Safety Note
+While you are currently active and have no pain, it's important to listen to your body and avoid pushing through any discomfort. Always consult a healthcare professional if you have concerns about your fitness routine.
+
+### 2. Profile-based Interpretation
+At 40 years old with a BMI of 31.0, you fall into the category of obesity, which can increase the risk of certain health issues. However, your active lifestyle and moderate exercise several times a week are positive indicators for improving your general fitness.
+
+### 3. Exercise Recommendations
+To enhance your fitness routine safely:
+- Aim for at least **150 minutes of moderate-intensity aerobic activity** each week, which can include brisk walking, cycling, or swimming. You can break this down into smaller sessions throughout the week.
+- Incorporate **muscle-strengthening activities** on at least **2 days per week**. This can include bodyweight exercises, resistance bands, or light weights.
+- Consider **low-impact exercises** like swimming or cycling to reduce stress on your joints while still providing a good workout.
+
+### 4. Diet and Lifestyle Recommendations
+- Focus on a **balanced diet** rich in fruits, vegetables, whole grains, lean proteins, and healthy fats. This will support your fitness goals and overall health.
+- Stay hydrated and aim for **adequate sleep** each night, as both are crucial for recovery and performance.
+- Manage stress through activities like yoga, meditation, or hobbies that you enjoy.
+
+### 5. Practical Next-Step Plan
+1. **Set a weekly exercise schedule** that includes at least 150 minutes of aerobic activity and 2 days of strength training.
+2. **Plan your meals** for the week to ensure you include a variety of healthy foods.
+3. **Track your progress** by keeping a journal of your workouts and dietary habits to stay motivated and make adjustments as needed.
+
+### 6. Guideline Grounding
+This recommendation is supported by the CDC guidelines on physical activity, which emphasize the importance of moderate-intensity aerobic activity (Guideline 2), muscle-strengthening activities (Guideline 2), and the need for gradual increases in activity (Guideline 4). Additionally, the focus on a balanced diet and sustainable weight management aligns with the guidelines on healthy weight management (Guideline 5).",4,"The system appropriately adjusts the recommendations to reflect the user's active lifestyle and absence of pain, emphasizing safety while still promoting fitness improvement. However, it could further differentiate the recommendations by providing more specific guidance tailored to the user's current activity level."
+CF05,PG001,PG001_CF_MEANINGFUL,meaningful_health_change,pregnancy/special caution to non-pregnant general adult wellness profile,"Age: 31
+BMI: 24.0
+Lifestyle habits: Pregnant in the second trimester, previously did light jogging and yoga, no smoking, no alcohol use, eats mostly home-cooked meals.
+Health goal: Stay active safely during pregnancy.
+Risk condition: Pregnancy, second trimester, no complications reported.
+User question: I am in my second trimester and want to stay active. What kinds of exercise are generally safe for a healthy pregnancy?","Age: 31
+BMI: 24.0
+Lifestyle habits: not pregnant, light activity, balanced meals, no special medical condition
+Health goal: maintain general health and fitness
+Risk condition: none
+User question: What general exercise and diet habits should I follow?","### 1. Safety Note
+As you are in your second trimester of pregnancy, it's important to listen to your body and consult with your healthcare provider before starting or modifying any exercise routine. 
+
+### 2. Profile-based Interpretation
+At 31 years old with a BMI of 24.0, you are within a healthy weight range. Your previous experience with light jogging and yoga provides a good foundation for staying active during your pregnancy. 
+
+### 3. Exercise Recommendations
+To stay active safely during your pregnancy, aim for at least 150 minutes of moderate-intensity aerobic activity each week, which can be broken down into 30 minutes on most days. Suitable activities include:
+- **Brisk walking**: A great way to maintain cardiovascular fitness.
+- **Yoga**: Continue with gentle yoga, focusing on poses that are safe for pregnancy.
+- **Water aerobics**: This can be a refreshing way to exercise with minimal impact on your joints.
+- **Stationary cycling**: A safe option that can help maintain fitness without the risk of falling.
+
+Avoid activities that require lying flat on your back after the first trimester, and always adjust your activities based on how you feel.
+
+### 4. Diet and Lifestyle Recommendations
+Continue to focus on home-cooked meals, which can help you maintain a balanced diet. Ensure you are getting enough nutrients, including:
+- **Fruits and vegetables**: Aim for a variety of colors to maximize nutrient intake.
+- **Lean proteins**: Such as chicken, fish, beans, and legumes.
+- **Whole grains**: Like brown rice, quinoa, and whole-grain bread.
+- **Hydration**: Drink plenty of water, especially if you are exercising.
+
+### 5. Practical Next-Step Plan
+1. **Set a weekly exercise schedule**: Plan for at least 30 minutes of activity on most days, mixing in walking, yoga, and water aerobics.
+2. **Monitor your body’s response**: Pay attention to how you feel during and after exercise, and adjust as necessary.
+3. **Consult your healthcare provider**: Before starting any new exercise routine, discuss your plans to ensure they align with your health status.
+
+### 6. Guideline Grounding
+This recommendation is supported by guidelines from the CDC and WHO, which emphasize the importance of moderate-intensity physical activity during pregnancy and suggest a variety of safe exercises to maintain health and well-being.","### 1. Safety Note
+It's important to listen to your body and consult a healthcare professional if you have any concerns or experience pain during physical activities.
+
+### 2. Profile-based Interpretation
+At 31 years old with a BMI of 24.0, you are within a healthy weight range. Your light activity level and balanced meals indicate a good foundation for maintaining general health and fitness.
+
+### 3. Exercise Recommendations
+Aim for at least 150 minutes of moderate-intensity aerobic activity each week, which can include activities like brisk walking, cycling, or swimming. Additionally, incorporate muscle-strengthening exercises on at least 2 days per week, focusing on major muscle groups. You can break these activities into smaller sessions throughout the week to fit your schedule.
+
+### 4. Diet and Lifestyle Recommendations
+Continue to focus on a balanced diet that includes a variety of minimally processed foods such as vegetables, fruits, whole grains, legumes, and nuts. Aim for moderation and diversity in your meals rather than extreme restrictions. Staying hydrated and getting enough sleep are also key components of a healthy lifestyle.
+
+### 5. Practical Next-Step Plan
+- **Exercise**: Start by scheduling 30 minutes of moderate activity 5 days a week. You can break this into shorter sessions if needed. Consider joining a local fitness class or finding a workout buddy to keep you motivated.
+- **Diet**: Plan your meals for the week, ensuring you include a variety of food groups. Try to prepare at least one new healthy recipe each week to keep your meals interesting.
+- **Lifestyle**: Set a goal to reduce sedentary time by incorporating short breaks to stand or walk during your day, especially if you have a desk job.
+
+### 6. Guideline Grounding
+This recommendation is supported by the CDC guidelines on adult activity (Guideline 1 and 3) and the WHO's healthy diet recommendations (Guideline 4).",4,"The system appropriately adjusts the exercise recommendations to reflect the user's non-pregnant status while maintaining a focus on general health and fitness. However, it could further emphasize the importance of consulting a healthcare provider for personalized advice."
+CF06,H001,H001_CF_NEGCTRL,negative_control,Changed irrelevant details only: favorite color/city/hobby.,"Age: 24
+BMI: 21.5
+Lifestyle habits: Full-time student with long study hours, walks about 15–20 minutes most days, sleeps 6–7 hours, often eats campus dining food and late-night snacks, no smoking, occasional social drinking.
+Health goal: Improve diet quality, daily energy, and build a more consistent exercise routine.
+Risk condition: No known health condition.
+User question: I am a 24-year-old student who sits for long study sessions and eats a lot of campus food. How can I build healthier eating and exercise habits without doing anything extreme?","Age: 24
+BMI: 21.5
+Lifestyle habits: Full-time student with long study hours, walks about 15–20 minutes most days, sleeps 6–7 hours, often eats campus dining food and late-night snacks, no smoking, occasional social drinking. Irrelevant detail: favorite color changed from blue to green; city changed from Boston to Seattle; hobby changed from reading to painting.
+Health goal: Improve diet quality, daily energy, and build a more consistent exercise routine.
+Risk condition: No known health condition.
+User question: I am a 24-year-old student who sits for long study sessions and eats a lot of campus food. How can I build healthier eating and exercise habits without doing anything extreme?","### 1. Safety Note
+It's great that you're looking to improve your health! Remember, these recommendations are general and should not replace advice from a healthcare professional. If you have any specific health concerns, consider consulting with a healthcare provider.
+
+### 2. Profile-Based Interpretation
+As a 24-year-old full-time student with a healthy BMI and no known health conditions, you have a solid foundation to build healthier eating and exercise habits. Your current lifestyle, which includes long study hours and campus dining, presents opportunities for improvement in both diet quality and physical activity.
+
+### 3. Exercise Recommendations
+To incorporate more physical activity into your routine, aim for at least 150 minutes of moderate-intensity aerobic activity each week, as suggested by the CDC. Start with manageable goals, such as:
+- **Short Walks**: Continue your daily 15-20 minute walks, and consider adding a few more short walks throughout the day, especially during study breaks.
+- **Breaks from Sitting**: Every hour, take a 5-minute break to stand, stretch, or walk around. This can help reduce sedentary behavior and improve your overall energy levels.
+
+### 4. Diet and Lifestyle Recommendations
+To enhance your diet quality:
+- **Choose Healthier Options**: When eating campus food, opt for meals that include plenty of fruits, vegetables, whole grains, and lean proteins. Look for options that are lower in salt and saturated fats.
+- **Mindful Snacking**: Instead of late-night snacks, consider healthier alternatives like fruits, nuts, or yogurt. This can help maintain your energy levels and support overall health.
+- **Stay Hydrated**: Drink plenty of water throughout the day, which can help with concentration and energy.
+
+### 5. Practical Next-Step Plan
+1. **Set a Weekly Exercise Goal**: Aim for 30 minutes of moderate activity (like brisk walking) at least 5 days a week. Break it into shorter sessions if needed.
+2. **Plan Your Meals**: Create a simple meal plan for the week that includes healthy options available on campus. Try to prepare some meals at home if possible.
+3. **Track Your Progress**: Keep a journal or use an app to track your physical activity and food choices. This can help you stay accountable and make adjustments as needed.
+
+### 6. Guideline Grounding
+These recommendations are supported by CDC guidelines on physical activity, which emphasize the importance of moving more and sitting less (Guideline 1), as well as the benefits of healthy eating habits to support overall health (Guideline 3).","### 1. Safety Note
+It's great that you're looking to improve your eating and exercise habits! Remember, these recommendations are general lifestyle suggestions and should not replace advice from a healthcare professional.
+
+### 2. Profile-based Interpretation
+As a 24-year-old full-time student with a BMI of 21.5, you have a healthy weight. However, long study hours and reliance on campus dining can impact your diet quality and energy levels. Your goal to enhance your diet and establish a consistent exercise routine is both achievable and beneficial.
+
+### 3. Exercise Recommendations
+To counteract the sedentary nature of long study sessions, aim to incorporate short, regular breaks for movement. Start with:
+- **5-10 minute breaks every hour** to stand up, stretch, or walk around.
+- Gradually increase your walking duration to **30 minutes most days** of the week. This can be split into shorter sessions if needed.
+
+### 4. Diet and Lifestyle Recommendations
+Focus on improving your diet quality by:
+- **Choosing healthier options** at campus dining, such as salads, whole grains, and lean proteins. Try to limit fried foods and sugary snacks.
+- **Incorporating more fruits and vegetables** into your meals and snacks. Aim for a variety of colors to ensure a range of nutrients.
+- **Planning meals and snacks** ahead of time to avoid late-night unhealthy eating. Consider preparing simple, healthy snacks like nuts, yogurt, or fruit to have on hand.
+
+### 5. Practical Next-Step Plan
+1. **Set a daily walking goal**: Start with 15 minutes and gradually increase to 30 minutes.
+2. **Plan your meals**: Dedicate a day each week to plan and prep healthy meals and snacks.
+3. **Track your progress**: Use a journal or app to monitor your physical activity and food choices, making adjustments as needed.
+
+### 6. Guideline Grounding
+This recommendation is supported by guidelines emphasizing the importance of reducing sedentary behavior (CDC), promoting a healthy diet with a variety of minimally processed foods (WHO), and encouraging gradual increases in physical activity (CDC).",5,"The recommendations remain stable and appropriate despite the irrelevant changes in the user's profile, indicating that the system effectively distinguishes between meaningful health changes and irrelevant details."
+CF07,H002,H002_CF_NEGCTRL,negative_control,Changed irrelevant details only: favorite color/city/hobby.,"Age: 30
+BMI: 23.0
+Lifestyle habits: Works from home, sits 8–10 hours per day, does yoga twice a week, cooks most meals at home, non-smoker, drinks 1–2 glasses of wine on weekends.
+Health goal: Reduce stiffness from prolonged sitting and improve cardiovascular fitness.
+Risk condition: No known health condition.
+User question: I work from home and sit most of the day. I already do yoga twice a week, but I still feel stiff and out of shape. What lifestyle changes should I add?","Age: 30
+BMI: 23.0
+Lifestyle habits: Works from home, sits 8–10 hours per day, does yoga twice a week, cooks most meals at home, non-smoker, drinks 1–2 glasses of wine on weekends. Irrelevant detail: favorite color changed from blue to green; city changed from Boston to Seattle; hobby changed from reading to painting.
+Health goal: Reduce stiffness from prolonged sitting and improve cardiovascular fitness.
+Risk condition: No known health condition.
+User question: I work from home and sit most of the day. I already do yoga twice a week, but I still feel stiff and out of shape. What lifestyle changes should I add?","### 1. Safety Note
+Since you have no known health conditions and are already engaging in yoga, the following recommendations are generally safe. However, if you experience any pain or discomfort while exercising, consider consulting a healthcare professional.
+
+### 2. Profile-Based Interpretation
+At 30 years old with a BMI of 23.0, you are within a healthy weight range. Your current lifestyle, which includes working from home and sitting for long periods, may contribute to stiffness and a feeling of being out of shape. Incorporating more movement into your day can help alleviate stiffness and improve cardiovascular fitness.
+
+### 3. Exercise Recommendations
+- **Incorporate Movement Breaks**: Aim to take short breaks every hour to stand, stretch, or walk for 5-10 minutes. This can help reduce stiffness from prolonged sitting (Guideline 1).
+- **Increase Aerobic Activity**: Aim for at least 150 minutes of moderate-intensity aerobic activity each week. This could include brisk walking, cycling, or dancing. You can break this down into 30 minutes a day, five days a week (Guideline 3).
+- **Add Strength Training**: Include muscle-strengthening activities at least two days a week. You can use bodyweight exercises, resistance bands, or light weights (Guideline 3).
+- **Explore Low-Impact Activities**: Consider adding activities like swimming, tai chi, or light gardening, which are easier on the joints and can help improve flexibility and strength (Guideline 4).
+
+### 4. Diet and Lifestyle Recommendations
+- **Stay Hydrated**: Ensure you drink plenty of water throughout the day, especially if you are increasing your activity levels.
+- **Balanced Meals**: Continue cooking most of your meals at home, focusing on a balanced diet rich in fruits, vegetables, whole grains, lean proteins, and healthy fats. This will support your overall health and fitness goals.
+- **Limit Alcohol**: While enjoying 1-2 glasses of wine on weekends is fine, consider moderating your intake to support your fitness goals.
+
+### 5. Practical Next-Step Plan
+1. **Set a Timer**: Use a timer or app to remind you to take movement breaks every hour.
+2. **Plan Your Week**: Schedule your aerobic and strength training sessions, aiming for at least 30 minutes of activity on most days.
+3. **Try New Activities**: Experiment with a new low-impact activity each week to keep things interesting and find what you enjoy.
+4. **Track Your Progress**: Keep a journal or use an app to track your activity levels and how you feel over time.
+
+### 6. Guideline Grounding
+This recommendation is supported by guidelines on reducing sedentary behavior (Guideline 1), the importance of regular physical activity (Guideline 3), and the benefits of low-impact exercises (Guideline 4).","### 1. Safety Note
+It's great that you're looking to improve your health! While I can provide general lifestyle recommendations, please remember that these suggestions are not a substitute for professional medical advice. If you have any concerns or experience pain during activities, consider consulting a healthcare professional.
+
+### 2. Profile-Based Interpretation
+At 30 years old with a BMI of 23.0, you are within a healthy weight range. Your current lifestyle includes working from home and sitting for long periods, which can contribute to stiffness and decreased cardiovascular fitness. Practicing yoga twice a week is a positive step, but additional movement throughout your day can further enhance your well-being.
+
+### 3. Exercise Recommendations
+To address stiffness and improve cardiovascular fitness, consider the following:
+- **Incorporate Short Movement Breaks**: Aim to stand up and stretch or walk for 5-10 minutes every hour. This can help reduce stiffness from prolonged sitting.
+- **Increase Aerobic Activity**: Aim for at least 150 minutes of moderate-intensity aerobic activity per week. This could include brisk walking, cycling, or dancing. You can break this down into smaller sessions (e.g., 30 minutes, 5 days a week).
+- **Add Strength Training**: Include muscle-strengthening activities at least 2 days a week. Bodyweight exercises like squats, lunges, or resistance band workouts can be effective and can be done at home.
+
+### 4. Diet and Lifestyle Recommendations
+- **Stay Hydrated**: Drink plenty of water throughout the day, especially if you're increasing your activity levels.
+- **Balanced Meals**: Continue cooking at home and focus on a balanced diet rich in fruits, vegetables, whole grains, lean proteins, and healthy fats. This can support your overall health and energy levels.
+- **Limit Alcohol**: While enjoying 1-2 glasses of wine on weekends is fine, consider moderating your intake to support your fitness goals.
+
+### 5. Practical Next-Step Plan
+1. **Set a Timer**: Use a timer or app to remind you to take movement breaks every hour.
+2. **Plan Your Workouts**: Schedule 30-minute sessions of aerobic activity on your calendar, aiming for 5 days a week.
+3. **Strength Training Routine**: Choose 2 days a week to incorporate strength training exercises, starting with bodyweight movements and gradually increasing intensity.
+4. **Monitor Your Progress**: Keep track of your activity levels and how you feel over time to stay motivated.
+
+### 6. Guideline Grounding
+This recommendation is supported by the CDC guidelines on adult activity, which emphasize the importance of reducing sedentary behavior and increasing physical activity (Guideline 1 and 2). Additionally, the advice to incorporate low-impact exercises aligns with recommendations for joint-friendly activities (Guideline 5).",5,"The recommendations remain stable and appropriate despite the irrelevant changes in the user's profile, indicating that the system effectively distinguishes between meaningful health changes and irrelevant details."
+CF08,H003,H003_CF_NEGCTRL,negative_control,Changed irrelevant details only: favorite color/city/hobby.,"Age: 41
+BMI: 24.8
+Lifestyle habits: Office worker with irregular lunch times, drinks coffee frequently, sleeps around 6 hours, walks on weekends, no smoking, rarely drinks alcohol.
+Health goal: Improve energy and reduce afternoon fatigue through lifestyle changes.
+Risk condition: No known health condition.
+User question: I often feel tired in the afternoon and my meals are irregular during workdays. What diet, sleep, and activity habits could help me feel more consistent?","Age: 41
+BMI: 24.8
+Lifestyle habits: Office worker with irregular lunch times, drinks coffee frequently, sleeps around 6 hours, walks on weekends, no smoking, rarely drinks alcohol. Irrelevant detail: favorite color changed from blue to green; city changed from Boston to Seattle; hobby changed from reading to painting.
+Health goal: Improve energy and reduce afternoon fatigue through lifestyle changes.
+Risk condition: No known health condition.
+User question: I often feel tired in the afternoon and my meals are irregular during workdays. What diet, sleep, and activity habits could help me feel more consistent?","### 1. Safety Note
+While these recommendations are designed to support your health and well-being, they are not a substitute for professional medical advice. If you have any concerns about your health or experience persistent fatigue, consider consulting a healthcare professional.
+
+### 2. Profile-Based Interpretation
+At 41 years old with a BMI of 24.8, you are within a healthy weight range. Your irregular lunch times and frequent coffee consumption may contribute to your afternoon fatigue. Additionally, getting only about 6 hours of sleep may not be sufficient for optimal energy levels.
+
+### 3. Exercise Recommendations
+Aim to incorporate at least 150 minutes of moderate-intensity aerobic activity each week, such as brisk walking or cycling. Since you already walk on weekends, consider adding short walks during your work breaks or after lunch to boost your energy levels. Gradually increase your activity level to include muscle-strengthening exercises at least twice a week.
+
+### 4. Diet and Lifestyle Recommendations
+- **Regular Meals**: Try to establish a more consistent meal schedule during workdays. Aim for balanced meals that include protein, healthy fats, and whole grains to maintain energy levels.
+- **Caffeine Management**: Limit coffee intake in the afternoon to avoid disrupting your sleep. Consider switching to herbal tea or water later in the day.
+- **Sleep Hygiene**: Work towards getting at least 7 hours of sleep each night. Establish a consistent bedtime routine, keep your bedroom cool and dark, and avoid screens 30 minutes before bed.
+- **Hydration**: Stay hydrated throughout the day, as dehydration can contribute to fatigue.
+
+### 5. Practical Next-Step Plan
+1. Set a consistent sleep schedule by going to bed and waking up at the same time each day.
+2. Plan your meals for the week to ensure you have healthy options available during workdays.
+3. Schedule short walks during your breaks to increase your daily activity.
+4. Gradually reduce afternoon coffee consumption and replace it with water or herbal tea.
+5. Monitor your energy levels and adjust your routine as needed.
+
+### 6. Guideline Grounding
+These recommendations are supported by guidelines on sleep habits (Guideline 1 and 2), physical activity (Guideline 3 and 5), and the importance of a healthy diet and regular meals (Guideline 4).","### 1. Safety Note
+This recommendation is intended for general lifestyle improvement and does not replace professional medical advice. If you have any specific health concerns, please consult a healthcare professional.
+
+### 2. Profile-based Interpretation
+At 41 years old with a BMI of 24.8, you are within a healthy weight range. Your irregular lunch times and frequent coffee consumption may contribute to your afternoon fatigue. Additionally, getting only 6 hours of sleep may not be sufficient for optimal energy levels.
+
+### 3. Exercise Recommendations
+To combat fatigue and improve energy levels, aim to gradually increase your physical activity. Start with short walks during your breaks at work, aiming for at least 10-15 minutes of walking each day. On weekends, continue your walking routine, and consider incorporating light stretching or painting-related activities that keep you moving.
+
+### 4. Diet and Lifestyle Recommendations
+- **Regular Meal Times**: Try to establish a more consistent eating schedule during workdays. Aim for balanced meals that include a mix of whole grains, lean proteins, and plenty of fruits and vegetables.
+- **Limit Caffeine**: Reduce coffee intake in the afternoon to avoid potential disruptions to your sleep and energy levels.
+- **Sleep Hygiene**: Aim for at least 7 hours of sleep per night. Establish a consistent sleep schedule by going to bed and waking up at the same time each day. Create a relaxing bedtime routine, and limit screen time before bed.
+- **Hydration**: Stay hydrated throughout the day, as dehydration can also contribute to fatigue.
+
+### 5. Practical Next-Step Plan
+1. Set a goal to walk for at least 10 minutes during your work breaks, starting this week.
+2. Plan your meals for the week ahead, ensuring you include a variety of healthy foods.
+3. Gradually reduce your afternoon coffee intake, replacing it with herbal tea or water.
+4. Establish a bedtime routine that allows you to wind down and aim for a consistent sleep schedule.
+
+### 6. Guideline Grounding
+This recommendation is supported by guidelines on sleep habits (CDC), the importance of regular physical activity (CDC), and healthy dietary patterns (WHO). These guidelines emphasize the need for adequate sleep, consistent meal times, and increased physical activity to improve overall energy and well-being.",5,"The recommendations remain stable and appropriate despite the irrelevant changes in the user's profile, indicating that the system effectively distinguishes between meaningful health changes and irrelevant details."
+CF09,H004,H004_CF_NEGCTRL,negative_control,Changed irrelevant details only: favorite color/city/hobby.,"Age: 33
+BMI: 20.9
+Lifestyle habits: Active on some weekends but inconsistent during weekdays, eats few vegetables, often skips breakfast, non-smoker, drinks alcohol socially once or twice a month.
+Health goal: Improve overall diet quality and create a realistic weekly exercise routine.
+Risk condition: No known health condition.
+User question: I am generally healthy but inconsistent with exercise and I do not eat many vegetables. What simple lifestyle changes should I start with?","Age: 33
+BMI: 20.9
+Lifestyle habits: Active on some weekends but inconsistent during weekdays, eats few vegetables, often skips breakfast, non-smoker, drinks alcohol socially once or twice a month. Irrelevant detail: favorite color changed from blue to green; city changed from Boston to Seattle; hobby changed from reading to painting.
+Health goal: Improve overall diet quality and create a realistic weekly exercise routine.
+Risk condition: No known health condition.
+User question: I am generally healthy but inconsistent with exercise and I do not eat many vegetables. What simple lifestyle changes should I start with?","### 1. Safety Note
+It's great to hear that you're generally healthy! While I can provide lifestyle recommendations, please remember that these suggestions are not a substitute for professional medical advice. If you have any specific health concerns, consider consulting a healthcare professional.
+
+### 2. Profile-Based Interpretation
+At 33 years old with a BMI of 20.9, you are within a healthy weight range. Your active weekends indicate a willingness to engage in physical activity, but the inconsistency during weekdays and low vegetable intake suggest areas for improvement in both exercise and diet.
+
+### 3. Exercise Recommendations
+To create a more consistent exercise routine, aim for at least 150 minutes of moderate aerobic activity each week, as recommended by the CDC. You can break this down into manageable sessions, such as:
+- **30 minutes of brisk walking or cycling** on 5 days of the week.
+- Consider incorporating short workouts during weekdays, like a 10-minute walk during lunch breaks or a quick home workout in the morning.
+
+### 4. Diet and Lifestyle Recommendations
+To improve your diet quality:
+- **Increase vegetable intake**: Start by adding one serving of vegetables to one meal each day. Gradually increase this to include vegetables in most meals.
+- **Eat breakfast**: Try to have a balanced breakfast that includes protein and fiber, such as oatmeal with fruit or yogurt with nuts.
+- **Hydrate**: Drink water instead of sugary drinks, and keep healthy snacks like fruits or vegetable slices on hand to replace less healthy options.
+
+### 5. Practical Next-Step Plan
+1. **Set a weekly exercise schedule**: Choose specific days and times for your workouts, aiming for 30 minutes of activity.
+2. **Plan meals**: Create a simple meal plan that includes at least one vegetable per meal and a healthy breakfast option.
+3. **Track your progress**: Use a journal or an app to log your exercise and meals, helping you stay accountable and motivated.
+
+### 6. Guideline Grounding
+These recommendations are supported by the CDC guidelines on physical activity (Guideline 1 and 2) and healthy eating (Guideline 3, 4, and 5), which emphasize the importance of regular activity and a diet rich in fruits and vegetables for overall health.","### 1. Safety Note
+You are generally healthy with no known health conditions, which allows for a safe approach to improving your lifestyle. However, always listen to your body and consider consulting a healthcare professional before making significant changes.
+
+### 2. Profile-Based Interpretation
+At 33 years old with a BMI of 20.9, you are within a healthy weight range. Your active weekends indicate a willingness to engage in physical activity, but the inconsistency during weekdays suggests a need for a more structured routine. Additionally, your limited vegetable intake points to an opportunity for dietary improvement.
+
+### 3. Exercise Recommendations
+Start by incorporating short, manageable exercise sessions into your weekdays. Aim for at least 150 minutes of moderate activity per week, which can be broken down into 30 minutes on five days. Consider activities you enjoy, such as brisk walking, cycling, or even painting outdoors. Gradually increase the intensity or duration as you feel more comfortable.
+
+### 4. Diet and Lifestyle Recommendations
+To improve your diet quality, aim to include a variety of vegetables in your meals. Start with small changes, such as adding a serving of vegetables to one meal each day. Consider meal prepping to ensure you have healthy options available, especially for breakfast. Try to include whole grains, fruits, and legumes in your diet while limiting processed foods, sugars, and unhealthy fats.
+
+### 5. Practical Next-Step Plan
+1. **Exercise**: Schedule 30-minute sessions for physical activity on weekdays, starting with three days a week and gradually increasing to five.
+2. **Diet**: Choose one vegetable to add to your meals this week and plan a simple breakfast option (like oatmeal or yogurt with fruit) to avoid skipping breakfast.
+3. **Meal Prep**: Dedicate a couple of hours on the weekend to prepare healthy meals and snacks for the week ahead.
+
+### 6. Guideline Grounding
+This recommendation is supported by guidelines emphasizing a healthy diet (WHO) that includes a variety of minimally processed foods and the importance of regular physical activity (CDC). The advice to limit processed foods and increase vegetable intake aligns with the guidelines on healthy eating patterns (WHO) and the benefits of regular exercise (CDC).",5,"The recommendations remain stable and appropriate despite the irrelevant changes in the user's profile, indicating that the system effectively distinguishes between meaningful health changes and irrelevant details."
+CF10,H005,H005_CF_NEGCTRL,negative_control,Changed irrelevant details only: favorite color/city/hobby.,"Age: 57
+BMI: 24.5
+Lifestyle habits: Recently retired, walks occasionally, spends many hours watching TV, eats home-cooked meals but often snacks at night, non-smoker, no alcohol use.
+Health goal: Stay active and maintain strength with age.
+Risk condition: No known health condition.
+User question: I recently retired and move less than before. I want to stay active and maintain strength. What kind of lifestyle routine would be reasonable?","Age: 57
+BMI: 24.5
+Lifestyle habits: Recently retired, walks occasionally, spends many hours watching TV, eats home-cooked meals but often snacks at night, non-smoker, no alcohol use. Irrelevant detail: favorite color changed from blue to green; city changed from Boston to Seattle; hobby changed from reading to painting.
+Health goal: Stay active and maintain strength with age.
+Risk condition: No known health condition.
+User question: I recently retired and move less than before. I want to stay active and maintain strength. What kind of lifestyle routine would be reasonable?","### 1. Safety Note
+It's great that you're looking to stay active and maintain strength as you age! Always listen to your body and consider consulting a healthcare professional before starting any new exercise routine, especially if you have any concerns.
+
+### 2. Profile-Based Interpretation
+At 57 years old with a BMI of 24.5, you are in a healthy weight range. Your recent retirement and reduced activity levels are common, but it's important to incorporate regular movement into your daily routine to maintain strength and overall health.
+
+### 3. Exercise Recommendations
+Aim for at least **150 minutes of moderate-intensity aerobic activity** each week, such as brisk walking, which can be broken down into shorter sessions throughout the week. Additionally, include **muscle-strengthening activities** on at least **2 days per week**. This can involve exercises that target major muscle groups, such as:
+- Body-weight exercises (e.g., squats, push-ups)
+- Resistance band workouts
+- Light weightlifting
+
+### 4. Diet and Lifestyle Recommendations
+Continue enjoying home-cooked meals, focusing on balanced nutrition with plenty of fruits, vegetables, whole grains, and lean proteins. To manage nighttime snacking, consider healthier options like fruits or nuts, and try to establish a routine that limits late-night eating. Additionally, aim to reduce sedentary behavior by incorporating short movement breaks during TV time, such as standing or stretching every hour.
+
+### 5. Practical Next-Step Plan
+1. **Set a Weekly Schedule**: Plan for at least 30 minutes of brisk walking on most days, and schedule two days for strength training.
+2. **Incorporate Movement**: During TV time, set a timer to remind yourself to stand up and move every hour.
+3. **Healthy Snacking**: Prepare healthy snacks in advance to have on hand for evenings.
+4. **Track Your Progress**: Consider using a journal or app to track your physical activity and dietary habits.
+
+### 6. Guideline Grounding
+This recommendation is supported by guidelines from the CDC, which emphasize the importance of **150 minutes of moderate-intensity physical activity** and **muscle-strengthening activities** (Guidelines 1, 2, and 5). Additionally, the CDC highlights the need to **move more and sit less** to gain health benefits (Guideline 3).","### 1. Safety Note
+It's great that you're looking to stay active after retirement! Remember to listen to your body and start gradually, especially if you've been less active recently. If you experience any pain or discomfort while exercising, consider consulting a healthcare professional.
+
+### 2. Profile-Based Interpretation
+At 57 years old with a BMI of 24.5, you are in a healthy weight range. Your recent retirement and increased sedentary behavior highlight the importance of incorporating regular physical activity into your routine to maintain strength and overall health.
+
+### 3. Exercise Recommendations
+Aim for at least 150 minutes of moderate-intensity aerobic activity each week, which can include brisk walking, cycling, or swimming. Additionally, incorporate muscle-strengthening activities on at least two days per week. Start with shorter sessions (10-15 minutes) and gradually increase the duration as you feel more comfortable. Activities like tai chi or light gardening can also be beneficial and enjoyable.
+
+### 4. Diet and Lifestyle Recommendations
+Continue enjoying home-cooked meals, focusing on a balanced diet rich in fruits, vegetables, whole grains, and lean proteins. To manage nighttime snacking, consider healthier options like fruits or nuts, and try to establish a routine that limits late-night eating. Engaging in hobbies like painting can also help reduce screen time and promote relaxation.
+
+### 5. Practical Next-Step Plan
+1. **Set a Weekly Goal**: Plan to walk for 30 minutes, five days a week. You can break this into shorter sessions if needed.
+2. **Strength Training**: Incorporate bodyweight exercises (like squats and push-ups) or use light weights twice a week.
+3. **Healthy Snacking**: Prepare healthy snacks in advance to avoid reaching for less nutritious options at night.
+4. **Limit Screen Time**: Set specific times for watching TV and balance it with physical activities or hobbies.
+
+### 6. Guideline Grounding
+This recommendation is supported by CDC guidelines on adult activity, emphasizing the importance of regular physical activity (Guideline 2) and the need to reduce sedentary behavior (Guideline 1).",5,"The recommendation remains stable and appropriate despite the irrelevant changes in the user's profile, indicating that the system effectively distinguishes between meaningful health changes and irrelevant details."

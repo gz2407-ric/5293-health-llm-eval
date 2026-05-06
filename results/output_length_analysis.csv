@@ -1,0 +1,5 @@
+system_name,mean_word_count,median_word_count,mean_sentence_count,mean_char_count,n
+baseline,296.48,297.0,26.42,1906.48,50
+full_pipeline,382.02,385.0,30.38,2508.56,50
+multistep_only,407.16,407.5,33.28,2616.42,50
+rag_only,226.8,226.0,15.82,1499.24,50
