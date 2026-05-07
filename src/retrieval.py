@@ -60,7 +60,6 @@ User question: {scenario.get("user_question", "")}
 Health goal: {scenario.get("health_goal", "")}
 Lifestyle habits: {scenario.get("lifestyle_habits", "")}
 Risk condition: {risk_condition}
-Expected guideline topic: {scenario.get("expected_guideline_topic", "")}
 """.strip()
 
 

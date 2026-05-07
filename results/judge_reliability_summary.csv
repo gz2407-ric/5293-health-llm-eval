@@ -1,2 +1,2 @@
 n_scored_pairs,exact_agreement_rate,average_absolute_difference,spearman_correlation,weighted_cohens_kappa,judge_model,note
-80,0.975,0.025,0.9608843537414966,0.9637023593466425,gpt-4o-mini,This is a self-consistency check using the same judge model.
+80,0.975,0.025,0.9633437083642022,0.9640449438202248,gpt-4o-mini,This is a self-consistency check using the same judge model.
