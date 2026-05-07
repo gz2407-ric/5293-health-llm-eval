@@ -154,7 +154,13 @@ python src/counterfactual_eval.py --max_cases 10
 ```bash
 python src/plot_results.py --mode full
 ```
+## Lightweight Checks
 
+Before submitting or presenting the project, you can run a lightweight repository check:
+
+```bash
+python tests/test_data_files.py
+```
 ## Running the Demo
 
 ```bash
@@ -167,6 +173,15 @@ The demo includes:
 - **Try a Custom Profile**: live Full Pipeline mode using API calls
 
 For presentation, use **Explore Results** as the default because it does not depend on live API calls.
+
+
+## Troubleshooting
+
+- If you see `OPENAI_API_KEY is missing`, create a local `.env` file based on `.env.example` and add your API key.
+- If Streamlit does not start, run `pip install -r requirements.txt` and then try `streamlit run app/streamlit_app.py` again.
+- If the live custom-profile demo is slow or fails, use the `Explore Results` tab. It uses precomputed results and does not require live API calls.
+- If the full experiment is slow, do not rerun it during presentation. Use the existing files in `results/`.
+- Do not commit `.env`, `venv/`, `.venv/`, or `results/raw_outputs/`.
 
 ## Evaluation Metrics
 
