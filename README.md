@@ -19,7 +19,7 @@ The strongest finding is that RAG substantially improves guideline alignment.
 
 ![Guideline Alignment by System](figures/full_guideline_alignment_by_system.png)
 
-Retrieval-based systems also achieved perfect Recall@3 and Recall@5 under our topic-overlap retrieval evaluation.
+Retrieval-based systems achieved high topic coverage after removing the expected guideline topic from the retrieval query.
 
 ![Retrieval Recall](figures/full_retrieval_recall.png)
 
