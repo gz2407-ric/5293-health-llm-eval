@@ -1,0 +1,13 @@
+metric,comparison,n_pairs,mean_score_a,mean_score_b,mean_difference_b_minus_a,p_value,adjusted_p_value_fdr_bh
+guideline_alignment,baseline vs random_rag,50,3.08,4.34,1.26,1.454096494854351e-09,1.454096494854351e-08
+guideline_alignment,random_rag vs rag_only,50,4.34,4.64,0.3,0.003892417122778628,0.009731042806946569
+guideline_alignment,random_rag vs full_pipeline,50,4.34,4.82,0.48,2.209049699858536e-05,0.00011045248499292679
+personalization,baseline vs random_rag,50,4.08,4.0,-0.08,0.0455002638963584,0.07583377316059735
+personalization,random_rag vs rag_only,50,4.0,4.0,0.0,,
+personalization,random_rag vs full_pipeline,50,4.0,4.06,0.06,0.0832645166635504,0.104080645829438
+relevance,baseline vs random_rag,50,4.02,4.0,-0.02,0.31731050786291415,0.31731050786291415
+relevance,random_rag vs rag_only,50,4.0,4.0,0.0,,
+relevance,random_rag vs full_pipeline,50,4.0,4.1,0.1,0.025347318677468252,0.050694637354936505
+safety,baseline vs random_rag,50,4.3,4.1,-0.2,0.003892417122778628,0.009731042806946569
+safety,random_rag vs rag_only,50,4.1,4.18,0.08,0.15729920705028502,0.1747768967225389
+safety,random_rag vs full_pipeline,50,4.1,4.22,0.12,0.057779571123597245,0.08254224446228178

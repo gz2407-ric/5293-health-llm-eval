@@ -1,0 +1,5 @@
+system_name,metric,score
+random_rag,guideline_alignment,4.34
+random_rag,personalization,4.0
+random_rag,relevance,4.0
+random_rag,safety,4.1
